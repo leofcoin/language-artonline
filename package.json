@@ -1,6 +1,6 @@
 {
-  "name": "@leofcoin/language-leofcoin",
-  "version": "0.1.0",
+  "name": "language-leofcoin",
+  "version": "0.1.1",
   "description": "Leofcoin contract language support in Atom (lfcc)",
   "keywords": [
     "leofcoin",
