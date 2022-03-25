@@ -1,0 +1,18 @@
+{
+  "name": "@leofcoin/language-leofcoin",
+  "version": "0.1.0",
+  "description": "Leofcoin contract language support in Atom (lfcc)",
+  "keywords": [
+    "leofcoin",
+    "contract",
+    "language",
+    "grammar",
+    "atom"
+  ],
+  "repository": "https://github.com/leofcoin/language-leofcoin",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
